@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-08-20T11:54:04.545Z</updated>
+  <updated>2023-07-30T02:26:10.829Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2</title>
-    <link href="http://example.com/2022/08/20/2-1/"/>
-    <id>http://example.com/2022/08/20/2-1/</id>
-    <published>2022-08-20T11:54:04.000Z</published>
-    <updated>2022-08-20T11:54:04.545Z</updated>
+    <title>下雨</title>
+    <link href="http://example.com/2023/07/20/2-1/"/>
+    <id>http://example.com/2023/07/20/2-1/</id>
+    <published>2023-07-20T11:54:04.000Z</published>
+    <updated>2023-07-30T02:26:10.829Z</updated>
     
+    <content type="html"><![CDATA[<p>  昨晚受到台风的影响风雨声太大了。有点害怕，虽然说是听雨声好入眠，可是这种时候，电闪雷鸣，轰鸣声犹在耳边，实在难以入睡，折腾到3点多，才翻来覆去睡着了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  昨晚受到台风的影响风雨声太大了。有点害怕，虽然说是听雨声好入眠，可是这种时候，电闪雷鸣，轰鸣声犹在耳边，实在难以入睡，折腾到3点多，才翻来覆去睡着了&lt;/p&gt;
+</summary>
+      
     
     
     
