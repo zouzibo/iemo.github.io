@@ -39,8 +39,8 @@ http://example.com/2017/04/29/%E5%A4%9C/
 http://example.com/
 http://example.com/tags/%E7%8C%AB/
 http://example.com/tags/%E5%81%87%E6%9C%9F%E5%BF%AB%E4%B9%90/
-http://example.com/tags/%E6%99%9A%E5%AE%89%E6%95%85%E4%BA%8B/
 http://example.com/tags/%E6%95%85%E4%BA%8B/
+http://example.com/tags/%E6%99%9A%E5%AE%89%E6%95%85%E4%BA%8B/
 http://example.com/tags/%E6%97%A5%E8%AE%B0/
 http://example.com/tags/%E5%90%93%E4%BA%BA/
 http://example.com/tags/%E6%97%A5%E8%AE%B0-%E6%B5%8B%E8%AF%95/
